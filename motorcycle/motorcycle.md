@@ -1,6 +1,6 @@
 Log
 
-[Home]https://kriste11er.github.io/index.md
+[Home]https://kriste11er.github.io/index.html
 [Motorcycle]https://kriste11er.github.io/motorcycle/motorcycle.md
 
 # XiaoYaoYou Log
