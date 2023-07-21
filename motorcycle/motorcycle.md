@@ -1,7 +1,7 @@
 Log
 
-[Home]https://kriste11er.github.io/index.html
-[Motorcycle]https://kriste11er.github.io/motorcycle/motorcycle.md
+[Home](https://kriste11er.github.io/index.html)
+[Motorcycle](https://kriste11er.github.io/motorcycle/motorcycle.md)
 
 # XiaoYaoYou Log
 [Day -7]https://kriste11er.github.io/motorcycle/xiaoyaoyou/20200911.md
