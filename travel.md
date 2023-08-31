@@ -1,9 +1,7 @@
 ---
-title: Motorcycle
+title: Travel
 layout: default
 ---
-
-[Home](https://kriste11er.github.io/index.html)
 
 # XiaoYaoYou Log
 [Day 1](https://kriste11er.github.io/motorcycle/xiaoyaoyou/20200921.md)\

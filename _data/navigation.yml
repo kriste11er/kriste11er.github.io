@@ -2,7 +2,12 @@
   link: /
 - name: About
   link: /about.html
-- name: People
-  link: /people.html
-- name: Motorcycle
-  link: /motorcycle.html
+- name: Vision
+  link: /vision.html
+- name: Learning
+  link: /learning.html
+- name: Projects
+  link: /projects.html
+- name: Travel
+  link: /travel.html
+
