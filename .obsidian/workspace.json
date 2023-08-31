@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f57215052d78b7cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vision.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vision.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vision.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vision.md"
+                "file": "about.md"
               }
             }
           }
@@ -159,20 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f57215052d78b7cb",
+  "active": "0d5c1ad4d536e9cf",
   "lastOpenFiles": [
-    "index.md",
-    "travel.md",
-    "_site/travel.html",
+    "motorcycle/xiaoyaoyou/20200923.md",
+    "_site/projects/truckv2.html",
+    "_projects/truckv2.md",
+    "_projects/truck v2.md",
+    "_site/projects/truck.html",
+    "_site/projects/truck.md",
+    "_projects/truck.md",
+    "shop.md",
+    "motorcycle/xiaoyaoyou/18961600262002_.pic.jpg",
+    "motorcycle/xiaoyaoyou/18981600262004_.pic.jpg",
+    "motorcycle/xiaoyaoyou/18971600262003_.pic.jpg",
+    "motorcycle/xiaoyaoyou/20200911.md",
+    "_projects/jill.md",
+    "_projects/truck-logs.md",
+    "vision.md",
+    "_site/learning.html",
+    "learning.md",
+    "_site/Learning/learning.html",
+    "_site/Learning",
+    "Learning/learning.md",
+    "Learning",
+    "_site/shop.html",
+    "shop.html",
+    "_layouts/project.html",
+    "_site/projects/truck-logs.html",
+    "about.md",
+    "_posts/2023-08-31-testing-all-the-things.md",
+    "_posts/2023-08-31-testing.md",
+    "_posts/2023-08-23-blab.md",
+    "_logs/20230831_1321-testing.md.md",
+    "_logs/2023-08-31-testing.md",
+    "_logs/2023-08-23-blab.md",
     "projects.md",
-    "_site/projects.html",
-    "_site/project.html",
+    "travel.md",
+    "index.md",
     "_site/project.md",
     "_site/Untitled.md",
-    "learning.md",
-    "_site/learning.html",
-    "vision.md",
-    "_site/learning.md",
-    "_site/vision.html"
+    "_site/learning.md"
   ]
 }

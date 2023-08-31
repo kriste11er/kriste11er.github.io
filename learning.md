@@ -2,10 +2,15 @@
 title: Learning
 layout: default
 ---
-# Learning Resources
+
+# Focus
+- PCB Design
+- Robotics Controls
+
+# Resources
 
 
-## Teacher
+## Friends / Teachers
 ### MITERS
 - Daniel Gonzalez
 - Ben Katz
@@ -22,3 +27,6 @@ layout: default
 - [Exercism](https://exercism.org/dashboard): a low bar python practice challenge tutorial structure. 
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck): a lively youtuber for all thing Linux, NAS, email server, etc.
 
+
+
+# Curriculums 

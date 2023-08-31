@@ -7,7 +7,12 @@
 - name: Learning
   link: /learning.html
 - name: Projects
-  link: /projects.html
+  link: /shop.html
+- name: In-Progress
+  link: /in-progress.html
 - name: Travel
   link: /travel.html
+- name: Teaching
+  link: /teaching.html
+
 

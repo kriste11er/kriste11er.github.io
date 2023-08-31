@@ -20,7 +20,7 @@ blurb
 - CFS
 - Quaise
 - ITER
-
+- Earthships
 ### Contributions
 
 
@@ -35,7 +35,10 @@ blurb
 - Moonshot Academy
 	- Starting a High School in China: Reflection Essays 
 - StarDAS
+	- MATRIX of Certifications to Teach
+	- SparkDAS
 - Explorer's Toolkit
+- Project OK
 
 ## Personal Data: Your Data for You
 education and collection/visualization of personal data in control by the person to whom it belongs for the benefit of furthering their own self-awareness:
@@ -66,15 +69,19 @@ blurb
 ### Exciting Developments
 - [CEPTR](https://ceptr.org/): a massive undertaking to base our governance systems on digital infrastructure (checkout their white papers and blog articles)
 - [Pol.is](https://pol.is/home), a FOSS tool optimizing for political consensus rather than polarization for profit.  
+- Singapore coding law tools
 
 #### Taiwan
 some really interesting things going on in Taiwan with respect to digital democracy since the [Sunflower Student Movement](https://en.wikipedia.org/wiki/Sunflower_Student_Movement) in 2014
 - [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), one of the driving forces behind these projects, she's an incredible inspiring figure who supported IT for the Sunflower Movement and then became Taiwan's Digital Minister. 
-	- [g0v]([https://g0v.tw](https://g0v.tw/))
-	- [vtaiwan]([https://info.vtaiwan.tw/](https://info.vtaiwan.tw/)  )
-	- [transparent budget]([http://budget.g0v.tw/budget](http://budget.g0v.tw/budget)  )
-	- [taiwan solving the uber problem]([https://richdecibels.medium.com/how-taiwan-solved-the-uber-problem-29fd2358a284](https://richdecibels.medium.com/how-taiwan-solved-the-uber-problem-29fd2358a284)  ): an example of how Polis was used in Taiwan governance  
+	- [g0v](https://g0v.tw/)
+	- [vtaiwan](https://info.vtaiwan.tw/)
+	- [transparent budget](http://budget.g0v.tw/budget)
+	- [taiwan solving the uber problem](https://richdecibels.medium.com/how-taiwan-solved-the-uber-problem-29fd2358a284): an example of how Polis was used in Taiwanese governance  
 
+#### Community and Co-ops
+- Enspiral
+- Autonomous University 
 
 ### Contributions
 
