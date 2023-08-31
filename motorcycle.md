@@ -1,3 +1,8 @@
+---
+title: Motorcycle
+layout: default
+---
+
 [Home](https://kriste11er.github.io/index.html)
 
 # XiaoYaoYou Log
