@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitHub Markdown to HTML</title>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+  </head>
+  <body>
+    <div id="output"></div>
+
+    <script>
+      // Initialize markdown-it
+      const md = window.markdownit();
+
+      // Function to fetch and display Markdown file from GitHub
+      async function fetchAndDisplayMarkdown(url) {
+        try {
+          // Fetch the Markdown file
+          const response = await fetch(url);
+          if (!response.ok) {
+            console.error('Failed to fetch Markdown file:', response.status);
+            return;
+          }
+
+          // Parse it as text
+          const markdownText = await response.text();
+
+          // Convert Markdown to HTML
+          const result = md.render(markdownText);
+
+          // Insert into the DOM
+          document.getElementById('output').innerHTML = result;
+        } catch (error) {
+          console.error('An error occurred:', error);
+        }
+      }
+
+      // Example usage:
+      fetchAndDisplayMarkdown('https://kriste11er.github.io/index.md');
+    </script>
+  </body>
+</html>

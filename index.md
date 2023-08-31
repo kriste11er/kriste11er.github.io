@@ -1,8 +1,18 @@
-<script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js">
+---
+title: Home
+layout: default
+---
+<h1>{{ "Hello World!" | upcase }}</h1>
 
-# New main page 
-## Hello World Boooooogers
+# Email to Supporting Friends/Family 
 
-[Motorcycle](https://kriste11er.github.io/motorcycle/motorcycle.md)
+I haven't forgotten about sending pictures from my trip around China
 
-</script>
+This is my way of doing social media
+
+I'm inspired by and want to contribute to making the indie web, homesteading  on the internet, digital gardens
+This is mine
+welcome
+
+If you would like to be removed from this list please let me know
+If what I write about helps you or someone you know in any way, please share, it will inspire me to keep adding to it
