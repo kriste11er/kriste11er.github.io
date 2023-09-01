@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "learning.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "0d5c1ad4d536e9cf",
   "lastOpenFiles": [
+    "_site/chinese.md",
+    "index.md",
+    "8.02 - Physics Electromagnetism.md",
+    "learning.md",
+    "chinese.md",
     "_posts/2023-08-31-testing-all-the-things.md",
     "shop.md",
     "_site/projects/mae.html",
@@ -167,7 +172,6 @@
     "_projects/truck-logs.md",
     "vision.md",
     "_site/learning.html",
-    "learning.md",
     "_site/Learning/learning.html",
     "_site/Learning",
     "Learning/learning.md",
@@ -182,9 +186,6 @@
     "_logs/2023-08-23-blab.md",
     "projects.md",
     "travel.md",
-    "index.md",
-    "_site/project.md",
-    "_site/Untitled.md",
-    "_site/learning.md"
+    "_site/project.md"
   ]
 }
