@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,14 +148,17 @@
   },
   "active": "0d5c1ad4d536e9cf",
   "lastOpenFiles": [
+    "_posts/2023-08-31-testing-all-the-things.md",
+    "shop.md",
+    "_site/projects/mae.html",
+    "_projects/mae.md",
+    "about.md",
     "motorcycle/xiaoyaoyou/20200923.md",
     "_site/projects/truckv2.html",
-    "_projects/truckv2.md",
     "_projects/truck v2.md",
     "_site/projects/truck.html",
     "_site/projects/truck.md",
     "_projects/truck.md",
-    "shop.md",
     "motorcycle/xiaoyaoyou/18961600262002_.pic.jpg",
     "motorcycle/xiaoyaoyou/18981600262004_.pic.jpg",
     "motorcycle/xiaoyaoyou/18971600262003_.pic.jpg",
@@ -172,9 +175,6 @@
     "_site/shop.html",
     "shop.html",
     "_layouts/project.html",
-    "_site/projects/truck-logs.html",
-    "about.md",
-    "_posts/2023-08-31-testing-all-the-things.md",
     "_posts/2023-08-31-testing.md",
     "_posts/2023-08-23-blab.md",
     "_logs/20230831_1321-testing.md.md",

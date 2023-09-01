@@ -5,10 +5,10 @@ title: shop
 
 
 Current
-- [Truckv2]({% link _projects/truckv2.md %})
+- [Mae]({% link _projects/mae.md %})
 - Emergency Medical Delivery Drone Service R&D
 - Time Management
-- ConnectedNEO
+- [ConnectedNEO](https://connectedneo.com/)
 - Chinese Fluency
 
 2019
@@ -21,16 +21,16 @@ Current
 - Rollercoaster inside 北京顺义国际学校
 
 2016
-- Truck v1
+- Truck
 
 2015
 - Ride-able Ring Motor 
 
 2014
-- First Legal East Campus Rollercoaster
+- [First Permitted East Campus Rollercoaster](https://build-its-inprogress.blogspot.com/search/label/Wooden%20Roller%20Coaster)
 
 2013
-- Electric Orbit Wheels
+- [Electric Orbit Wheels](http://www.instructables.com/id/Electric-Orbit-Wheels-Laterally-Propelled-Hub-les/)
 
  
 

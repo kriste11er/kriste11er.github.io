@@ -4,8 +4,8 @@ layout: default
 ---
 <h1>{{ "Hello World!" | upcase }}</h1>
 
-A small step forward, a giant leap for mankind... That's what I read on the urinal today, at least. Hope it leads to baby steps every other day. 
-The beginning of a slow growing garden of flowers
+A small step forward, a giant leap for mankind... That's what I read on the urinal today, at least. 
+
 
 
 
@@ -16,11 +16,10 @@ I haven't forgotten about sending pictures from my trip around China
 
 This is my way of doing social media
 
-I'm inspired by and want to contribute to making the indie web, homesteading  on the internet, digital gardens
-This is mine
-welcome
+I'm inspired by homesteading on the internet, digital gardens and want to contribute to making the indie web. This is my contribution. Welcome.
 
-If you would like to be removed from this list please let me know
-If what I write about helps you or someone you know in any way, please share, it will inspire me to keep adding to it
+Let me know if: 
+- you would like to be removed from this list 
+- what I write about helps you or someone you know in any way, it will inspire me to keep documenting
 
 
