@@ -3,7 +3,7 @@ title: Travel
 layout: default
 ---
 # Stories
-I'm well traveled, and have more stories than I can remember. It's often hard to think of one on the spot, but they come up in conversation upon relevant topics. Care to hear one? Ask me about the time I: 
+It's often hard to think of one on the spot, but they come up in conversation upon relevant topics. Care to hear one? Ask me about the time I: 
 - crashed a Mongolian birthday party in Ulaanbaatar
 - ran out of gas in-the-middle-of-no-where Alaska
 - rode a taxi like a horse in Beijing during Spring Festival

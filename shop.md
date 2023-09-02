@@ -2,6 +2,18 @@
 layout: default
 title: shop
 ---
+# Projects
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <h3><a href="{{ project.url }}">{{ project.year }} {{ project.name }}</a></h3>
+      <p>{{ project.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+---
 
 
 Current
@@ -32,25 +44,3 @@ Current
 2013
 - [Electric Orbit Wheels](http://www.instructables.com/id/Electric-Orbit-Wheels-Laterally-Propelled-Hub-les/)
 
- 
-
-
-
-
-
-
-
-
-
----
-# Testing Jekyll Features
-<ul>
-  {% for project in site.projects %}
-    <li>
-      <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
-      <h3>{{ project.position }}</h3>
-      <p>{{ project.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
----

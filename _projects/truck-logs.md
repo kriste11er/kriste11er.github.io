@@ -1,5 +1,7 @@
 ---
-short_name: ted
 name: Truck Logs
+picture: 
+description: brief bulleted notes taken day to day when interesting things happen living out in the wild
+gif:
+year: 2023
 ---
-Ted has been eating fruit since he was baby.

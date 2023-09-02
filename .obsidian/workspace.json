@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning.md",
+                "file": "travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning.md",
+                "file": "travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning.md",
+                "file": "travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning.md"
+                "file": "travel.md"
               }
             }
           }
@@ -148,44 +148,48 @@
   },
   "active": "0d5c1ad4d536e9cf",
   "lastOpenFiles": [
+    "chinese.md",
+    "_site/Pasted image 20230901205336.png",
+    "Pasted image 20230901205336.png",
+    "_site/chinese.html",
     "_site/chinese.md",
+    "_posts/2018-08-15-streamgraph.md",
+    "_projects/visualizing-messaging-history.md",
+    "learning.md",
+    "_site/CONTENT/Screenshot 2018-08-01 17.41.58.png",
+    "_site/CONTENT/chinese.md",
+    "_site/CONTENT",
+    "CONTENT",
+    "shop.md",
+    "_projects/truck-logs.md",
+    "_site/projects/visualizing-messaging-history.html",
+    "_site/projects/Visualizing Messaging History.html",
+    "_site/2018/08/15/streamgraph.html",
+    "_posts/2023-08-31-testing-all-the-things.md",
+    "_posts/2023-08-23-blab.md",
+    "_site/Screenshot 2018-08-01 17.41.58.png",
+    "CONTENT/Screenshot 2018-08-01 17.41.58.png",
+    "_site/2018/08/15/visualizing-messaging-history.html",
+    "_site/2018/08/15",
+    "_site/2018/08",
+    "_site/2018",
     "index.md",
     "8.02 - Physics Electromagnetism.md",
-    "learning.md",
-    "chinese.md",
-    "_posts/2023-08-31-testing-all-the-things.md",
-    "shop.md",
-    "_site/projects/mae.html",
     "_projects/mae.md",
     "about.md",
     "motorcycle/xiaoyaoyou/20200923.md",
-    "_site/projects/truckv2.html",
     "_projects/truck v2.md",
-    "_site/projects/truck.html",
     "_site/projects/truck.md",
     "_projects/truck.md",
     "motorcycle/xiaoyaoyou/18961600262002_.pic.jpg",
     "motorcycle/xiaoyaoyou/18981600262004_.pic.jpg",
     "motorcycle/xiaoyaoyou/18971600262003_.pic.jpg",
     "motorcycle/xiaoyaoyou/20200911.md",
-    "_projects/jill.md",
-    "_projects/truck-logs.md",
     "vision.md",
-    "_site/learning.html",
-    "_site/Learning/learning.html",
-    "_site/Learning",
     "Learning/learning.md",
-    "Learning",
-    "_site/shop.html",
-    "shop.html",
-    "_layouts/project.html",
     "_posts/2023-08-31-testing.md",
-    "_posts/2023-08-23-blab.md",
     "_logs/20230831_1321-testing.md.md",
     "_logs/2023-08-31-testing.md",
-    "_logs/2023-08-23-blab.md",
-    "projects.md",
-    "travel.md",
-    "_site/project.md"
+    "_logs/2023-08-23-blab.md"
   ]
 }
