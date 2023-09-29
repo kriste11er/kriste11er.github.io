@@ -2,7 +2,7 @@
 title: Learning
 layout: default
 ---
-
+I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible learning can feel at first, yet, as long as you desire so strongly to get where you are meant to go and put in the work, you can't help but fall in love with learning and desire more. Watch his [recounting of learning Calculus](https://www.youtube.com/watch?v=NjvwWiCYLl4) in high school. 
 # Focus Now
 - PCB Design
 - Robotics Controls
@@ -17,7 +17,7 @@ layout: default
 	- Changbai
 	- Jiji
 	- Robin
-	- Mitch [Altman](https://en.wikipedia.org/wiki/Mitch_Altman): inventor of [TV-B-Gone®](https://www.tvbgone.com/), cofounder of [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge) 
+	- [Mitch](https://www.youtube.com/watch?v=WkiX7R1-kaY&t=6s&ab_channel=TEDxTalks) [Altman](https://en.wikipedia.org/wiki/Mitch_Altman): inventor of [TV-B-Gone®](https://www.tvbgone.com/), cofounder of [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge), CEO of [Cornfield Electronics](https://cornfieldelectronics.com/cfe/aboutus.php?PHPSESSID=rvoh8p6vafc1k85knmfmf5dnrq)
 - Inspiration
 	- Tim Urban: Wait But Why
 
@@ -46,20 +46,24 @@ layout: default
 	- [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
 	- [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 - **Math**
-	- [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
+	- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 	- [Numberphile](https://www.youtube.com/@numberphile)
 	- [Vihart](https://www.youtube.com/@Vihart): og math youtuber
 	- [George Hart](https://www.youtube.com/@GeorgeHart-math): make math objects irl
 - **Controls**
 	- [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw): control bootcamp, intro data science, Fourier Analysis
-	- [Brian Douglas](https://www.youtube.com/@ControlLectures): control lectures, bode plots, root locus
+	- [Brian Douglas](https://www.youtube.com/@BrianBDouglas): control lectures, bode plots, root locus
+		- [Engineering Media LLC](https://engineeringmedia.com/)
 - **Physics** 
 	- [MinutePhysics](https://www.youtube.com/@MinutePhysics)
 	- [Two minute papers](https://www.youtube.com/user/keeroyz): what a time to be alive!
 	- [Physics Girl](https://www.youtube.com/@physicsgirl)
-	- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)
+	- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder): Science without the gobbledygook
 	- [PBS Space Time](https://www.youtube.com/@pbsspacetime)
 	- [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+	- [Feynman Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&app=desktop)
+		- [Recordings](https://www.feynmanlectures.caltech.edu/recordings.html)
+		- [Notes](https://www.feynmanlectures.caltech.edu/)
 - **Electrical**
 	- [Ben Eater](https://www.youtube.com/@BenEater): world's worst graphics card, how VGA ports work 
 	- [Electroboom](https://www.youtube.com/@ElectroBOOM): teaching EE through masochism 
@@ -79,12 +83,41 @@ layout: default
 - **General**
 	- [CrashCourse](https://www.youtube.com/user/crashcourse)
 	- [CGP Grey](https://www.youtube.com/@CGPGrey/playlists)
+- **Chinese (中文)**
+	- [Informal Talks (非正式会谈)](https://www.youtube.com/@informaltalks): young adults from around the world discussing life peculiarities in Chinese 
 
 # Resources
 - **Computers**
 	- [Teach Yourself Computer Science](https://teachyourselfcs.com/): full on 1500 hours curriculum
 	- W3schools: learn webdev
 	- [Exercism](https://exercism.org/dashboard): a low bar python practice challenge tutorial structure. 
+
+
+Learning Resources
+Life-Long Learning History & Formal Curriculums
+
+
+
+
+- Now
+
+- 2022 
+	- 
+
+- 2021
+	- 
+
+- 2020 
+	- 
+
+- 2019 
+	- 
+
+- 2018
+	- Chinese, HSK 2
+
+- 2017
+	- 
 
 # Curriculums
 #### [Massachusetts Institute of Technology](https://ocw.mit.edu/): 2A-6, B.S. in Mechanical Engineering with a focus in Controls, Instrumentation, and Robotics 

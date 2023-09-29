@@ -17,7 +17,7 @@ Great APPs for getting started:
 
 
 ### 1. Learn the sounds
-Spend a week just wrapping your mind around all the sounds ([pinyin](https://en.wikipedia.org/wiki/Pinyin)). It feels daunting before you do it, but there aren't actually that many (only a 23 initials and 24 finals). Once you internalize the sounds, you will start hearing them everywhere. (Hello Chinese is a great app for this).
+Spend a week just wrapping your mind around all the sounds ([pinyin](https://en.wikipedia.org/wiki/Pinyin)). It feels daunting before you do it, but there aren't actually that many (only 23 initials and 24 finals). Once you internalize the sounds, you will start hearing them everywhere. (Hello Chinese is a great app for this).
 
 ![[Pasted image 20230901205336.png]]
 
