@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning.md",
+                "file": "motorcycle/20231003.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning.md",
+                "file": "motorcycle/20231003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning.md",
+                "file": "motorcycle/20231003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning.md"
+                "file": "motorcycle/20231003.md"
               }
             }
           },
@@ -183,8 +183,21 @@
   },
   "active": "be57de64df1e990a",
   "lastOpenFiles": [
-    "controls.md",
+    "photo_2023-10-11_15-05-06.jpg",
+    "video_2023-10-11_14-59-28.mp4",
+    "photo_2023-10-11_14-58-17.jpg",
+    "photo_2023-10-11_14-54-44.jpg",
+    "photo_2023-10-11_14-54-43.jpg",
+    "photo_2023-10-11_14-54-42.jpg",
+    "photo_2023-10-11_14-54-41.jpg",
+    "photo_2023-10-11_14-54-40.jpg",
+    "photo_2023-10-11_14-54-39.jpg",
+    "photo_2023-10-11_14-54-38.jpg",
+    "photo_2023-10-11_14-54-36.jpg",
+    "photo_2023-10-11_14-54-32.jpg",
     "learning.md",
+    "motorcycle/20231003.md",
+    "controls.md",
     "Untitled.md",
     "vision.md",
     "_posts/2018-08-15-streamgraph.md",
@@ -196,11 +209,8 @@
     "motorcycle/xiaoyaoyou/20200923.md",
     "chinese.md",
     "travel.md",
-    "_site/Pasted image 20230901205336.png",
-    "Pasted image 20230901205336.png",
     "_site/chinese.html",
     "_site/chinese.md",
-    "_site/CONTENT/Screenshot 2018-08-01 17.41.58.png",
     "_site/CONTENT/chinese.md",
     "_site/CONTENT",
     "CONTENT",
@@ -211,21 +221,13 @@
     "_site/2018/08/15/streamgraph.html",
     "_posts/2023-08-31-testing-all-the-things.md",
     "_posts/2023-08-23-blab.md",
-    "_site/Screenshot 2018-08-01 17.41.58.png",
-    "CONTENT/Screenshot 2018-08-01 17.41.58.png",
     "_site/2018/08/15/visualizing-messaging-history.html",
     "_site/2018/08/15",
     "_site/2018/08",
-    "_site/2018",
     "index.md",
     "8.02 - Physics Electromagnetism.md",
     "_projects/mae.md",
     "about.md",
-    "_projects/truck v2.md",
-    "_site/projects/truck.md",
-    "_projects/truck.md",
-    "motorcycle/xiaoyaoyou/18961600262002_.pic.jpg",
-    "motorcycle/xiaoyaoyou/18981600262004_.pic.jpg",
-    "motorcycle/xiaoyaoyou/18971600262003_.pic.jpg"
+    "_projects/truck v2.md"
   ]
 }
