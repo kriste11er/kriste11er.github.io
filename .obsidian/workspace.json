@@ -35,11 +35,9 @@
             "id": "be57de64df1e990a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "motorcycle/20231003.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230901205336.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motorcycle/20231003.md",
+                "file": "Pasted image 20230901205336.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "motorcycle/20231003.md",
+                "file": "Pasted image 20230901205336.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "motorcycle/20231003.md"
+                "file": "Pasted image 20230901205336.png"
               }
             }
           },
@@ -183,20 +181,21 @@
   },
   "active": "be57de64df1e990a",
   "lastOpenFiles": [
-    "photo_2023-10-11_15-05-06.jpg",
-    "video_2023-10-11_14-59-28.mp4",
-    "photo_2023-10-11_14-58-17.jpg",
-    "photo_2023-10-11_14-54-44.jpg",
-    "photo_2023-10-11_14-54-43.jpg",
-    "photo_2023-10-11_14-54-42.jpg",
-    "photo_2023-10-11_14-54-41.jpg",
-    "photo_2023-10-11_14-54-40.jpg",
-    "photo_2023-10-11_14-54-39.jpg",
-    "photo_2023-10-11_14-54-38.jpg",
-    "photo_2023-10-11_14-54-36.jpg",
-    "photo_2023-10-11_14-54-32.jpg",
-    "learning.md",
+    "motorcycle/photo_2023-10-11_14-53-59.jpg",
+    "Pasted image 20230901205336.png",
+    "CONTENT/Screenshot 2018-08-01 17.41.58.png",
+    "motorcycle/xiaoyaoyou/20200922.md",
     "motorcycle/20231003.md",
+    "motorcycle/photo_2023-10-11_15-05-06.jpg",
+    "motorcycle/video_2023-10-11_14-59-28.mp4",
+    "motorcycle/photo_2023-10-11_14-58-17.jpg",
+    "motorcycle/photo_2023-10-11_14-54-44.jpg",
+    "motorcycle/photo_2023-10-11_14-54-43.jpg",
+    "motorcycle/photo_2023-10-11_14-54-42.jpg",
+    "motorcycle/photo_2023-10-11_14-54-41.jpg",
+    "motorcycle/photo_2023-10-11_14-54-40.jpg",
+    "motorcycle/photo_2023-10-11_14-54-39.jpg",
+    "learning.md",
     "controls.md",
     "Untitled.md",
     "vision.md",
@@ -204,7 +203,6 @@
     "_projects/visualizing-messaging-history.md",
     "motorcycle/xiaoyaoyou/20200911.md",
     "motorcycle/xiaoyaoyou/20200912.md",
-    "motorcycle/xiaoyaoyou/20200922.md",
     "motorcycle/xiaoyaoyou/20200921.md",
     "motorcycle/xiaoyaoyou/20200923.md",
     "chinese.md",
