@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-08-23-blab.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-08-23-blab.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-08-23-blab.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-08-23-blab.md"
+                "file": "index.md"
               }
             }
           },
@@ -183,28 +183,40 @@
   },
   "active": "be57de64df1e990a",
   "lastOpenFiles": [
+    "root/README.md",
+    "root/index.md",
+    "CONTENT/Screenshot 2018-08-01 17.41.58.png",
+    "_posts/2018-08-15-streamgraph.md",
+    "_posts/2023-08-23-blab.md",
+    "_posts/2023-08-31-testing-all-the-things.md",
+    "Fairbanks Travel Tips.md",
+    "learning.md",
+    "_site/photo_2023-10-11_14-54-32.jpg.md",
+    "_site/motorcycle/video_2023-10-11_14-59-28.mp4",
+    "_site/motorcycle/photo_2023-10-11_15-05-06.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-58-17.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-44.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-43.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-42.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-41.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-40.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-39.jpg",
+    "_site/motorcycle/photo_2023-10-11_14-54-38.jpg",
+    "_site/controls.md",
+    "_site/assets/images/myimage.jpg.md",
+    "_site/assets/images",
+    "_site/asd.md",
+    "_site/Untitled.md",
+    "_site/motorcycle/20231003.html",
     "chinese.md",
     "motorcycle/20231003.md",
     "photo_2023-10-11_14-54-32.jpg.md",
     "asd.md",
     "assets/images/myimage.jpg.md",
-    "learning.md",
-    "motorcycle/photo_2023-10-11_14-54-42.jpg",
-    "motorcycle/photo_2023-10-11_14-54-40.jpg",
-    "motorcycle/photo_2023-10-11_14-54-36.jpg",
-    "motorcycle/photo_2023-10-11_14-54-04.jpg",
-    "Pasted image 20230901205336.png",
-    "motorcycle/photo_2023-10-11_14-53-59.jpg",
-    "CONTENT/Screenshot 2018-08-01 17.41.58.png",
     "motorcycle/xiaoyaoyou/20200922.md",
-    "motorcycle/photo_2023-10-11_15-05-06.jpg",
     "motorcycle/video_2023-10-11_14-59-28.mp4",
-    "motorcycle/photo_2023-10-11_14-58-17.jpg",
-    "motorcycle/photo_2023-10-11_14-54-44.jpg",
     "controls.md",
-    "Untitled.md",
     "vision.md",
-    "_posts/2018-08-15-streamgraph.md",
     "_projects/visualizing-messaging-history.md",
     "motorcycle/xiaoyaoyou/20200911.md",
     "motorcycle/xiaoyaoyou/20200912.md",
@@ -212,22 +224,10 @@
     "motorcycle/xiaoyaoyou/20200923.md",
     "travel.md",
     "_site/chinese.html",
-    "_site/chinese.md",
-    "_site/CONTENT/chinese.md",
     "_site/CONTENT",
     "CONTENT",
-    "shop.md",
-    "_projects/truck-logs.md",
     "_site/projects/visualizing-messaging-history.html",
     "_site/projects/Visualizing Messaging History.html",
-    "_site/2018/08/15/streamgraph.html",
-    "_posts/2023-08-31-testing-all-the-things.md",
-    "_posts/2023-08-23-blab.md",
-    "_site/2018/08/15/visualizing-messaging-history.html",
-    "_site/2018/08/15",
-    "_site/2018/08",
-    "index.md",
-    "8.02 - Physics Electromagnetism.md",
-    "_projects/mae.md"
+    "_site/2018/08/15/streamgraph.html"
   ]
 }

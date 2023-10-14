@@ -9,9 +9,8 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 
 # Blogroll
 - **[MITERS](http://miters.mit.edu/)**
-	- Daniel Gonzalez
-	- Ben Katz
-	- Dane Kouttron 
+	- [Ben Katz](https://build-its.blogspot.com/)
+	- [Dane Kouttron](https://transistor-man.com/) 
 - **[新车间 (XinCheJian)](https://xinchejian.com/?lang=en)**
 	- Nelson
 	- Changbai
@@ -19,7 +18,7 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 	- Robin
 	- [Mitch](https://www.youtube.com/watch?v=WkiX7R1-kaY&t=6s&ab_channel=TEDxTalks) [Altman](https://en.wikipedia.org/wiki/Mitch_Altman): inventor of [TV-B-Gone®](https://www.tvbgone.com/), cofounder of [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge), CEO of [Cornfield Electronics](https://cornfieldelectronics.com/cfe/aboutus.php?PHPSESSID=rvoh8p6vafc1k85knmfmf5dnrq)
 - Inspiration
-	- Tim Urban: Wait But Why
+	- Tim Urban: [Wait But Why](https://waitbutwhy.com/)
 
 
 # YouTube Channels
@@ -93,33 +92,20 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 	- [Exercism](https://exercism.org/dashboard): a low bar python practice challenge tutorial structure. 
 
 
-Learning Resources
-Life-Long Learning History & Formal Curriculums
 
-
-
+# Life-Long Learning History
 
 - Now
+	- 2.096 - Modeling and Simulation
+	- 2.151 - Advanced Control Systems 
+	- 2.174 - Compliant Mechanisms
+	- 15.000 - Managerial Economics
 
-- 2022 
-	- 
+- 2018 - 2021
+	- Chinese, HSK 1 - 5
+	- VIM Adventures
 
-- 2021
-	- 
-
-- 2020 
-	- 
-
-- 2019 
-	- 
-
-- 2018
-	- Chinese, HSK 2
-
-- 2017
-	- 
-
-# Curriculums
+# Formal Curriculums
 #### [Massachusetts Institute of Technology](https://ocw.mit.edu/): 2A-6, B.S. in Mechanical Engineering with a focus in Controls, Instrumentation, and Robotics 
 - **2016**
 	- 2.013 - Engineering Systems Design
