@@ -1,6 +1,6 @@
 ---
-title: Travel
-layout: default
+title: 
+layout:
 ---
 # Stories
 It's often hard to think of one on the spot, but they come up in conversation upon relevant topics. Care to hear one? Ask me about the time I: 

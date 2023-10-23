@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be57de64df1e990a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be57de64df1e990a",
+  "active": "6efb91e3aa25081c",
   "lastOpenFiles": [
+    "about.md",
+    "index.md",
+    "_posts/2023-08-31-testing-all-the-things.md",
+    "_projects/visualizing-messaging-history.md",
+    "_projects/truck-logs.md",
+    "_projects/mae.md",
+    "chinese.md",
+    "_site/Fairbanks Travel Tips.md",
+    "travel.md",
+    "controls.md",
+    "unpublished",
+    "Fairbanks Travel Tips.md",
+    "Pasted image 20230901205336.png",
+    "photo_2023-10-11_14-54-32.jpg.md",
+    "_site/Fairbanks.md",
+    "learning.md",
     "root/README.md",
     "root/index.md",
+    "vision.md",
+    "shop.md",
+    "asd.md",
+    "_site/README.md",
     "CONTENT/Screenshot 2018-08-01 17.41.58.png",
+    "_site/root/index.md",
     "_posts/2018-08-15-streamgraph.md",
     "_posts/2023-08-23-blab.md",
-    "_posts/2023-08-31-testing-all-the-things.md",
-    "Fairbanks Travel Tips.md",
-    "learning.md",
     "_site/photo_2023-10-11_14-54-32.jpg.md",
     "_site/motorcycle/video_2023-10-11_14-59-28.mp4",
     "_site/motorcycle/photo_2023-10-11_15-05-06.jpg",
@@ -201,33 +207,15 @@
     "_site/motorcycle/photo_2023-10-11_14-54-41.jpg",
     "_site/motorcycle/photo_2023-10-11_14-54-40.jpg",
     "_site/motorcycle/photo_2023-10-11_14-54-39.jpg",
-    "_site/motorcycle/photo_2023-10-11_14-54-38.jpg",
     "_site/controls.md",
     "_site/assets/images/myimage.jpg.md",
     "_site/assets/images",
-    "_site/asd.md",
-    "_site/Untitled.md",
     "_site/motorcycle/20231003.html",
-    "chinese.md",
-    "motorcycle/20231003.md",
-    "photo_2023-10-11_14-54-32.jpg.md",
-    "asd.md",
-    "assets/images/myimage.jpg.md",
-    "motorcycle/xiaoyaoyou/20200922.md",
     "motorcycle/video_2023-10-11_14-59-28.mp4",
-    "controls.md",
-    "vision.md",
-    "_projects/visualizing-messaging-history.md",
-    "motorcycle/xiaoyaoyou/20200911.md",
-    "motorcycle/xiaoyaoyou/20200912.md",
-    "motorcycle/xiaoyaoyou/20200921.md",
-    "motorcycle/xiaoyaoyou/20200923.md",
-    "travel.md",
     "_site/chinese.html",
     "_site/CONTENT",
     "CONTENT",
     "_site/projects/visualizing-messaging-history.html",
-    "_site/projects/Visualizing Messaging History.html",
-    "_site/2018/08/15/streamgraph.html"
+    "_site/projects/Visualizing Messaging History.html"
   ]
 }

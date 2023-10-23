@@ -14,7 +14,6 @@ I call it my Maslow's Pyramid of Life Goals.
 
 
 ## Climate Crisis: Avoiding the Worst Case Scenarios
-blurb
 
 - **Exciting Developments**
 	- CFS
@@ -25,7 +24,6 @@ blurb
 
 
 ## Education System Design: Unschooling
-blurb
 
 - **Exciting Developments**
 	- Agile Learning Centers
@@ -63,7 +61,6 @@ education and collection/visualization of personal data in control by the person
   
 
 ## Deep Democracy: Rethinking Governance in the Digital Age
-blurb
 
 ### Exciting Developments
 - [CEPTR](https://ceptr.org/): a massive undertaking to base our governance systems on digital infrastructure (checkout their white papers and blog articles)
@@ -81,13 +78,6 @@ some really interesting things going on in Taiwan with respect to digital democr
 #### Community and Co-ops
 - Enspiral
 - Autonomous University 
-
-
-
-
-- **Contributions**
-
-
 
 
 

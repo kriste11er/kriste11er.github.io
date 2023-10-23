@@ -1,19 +1,11 @@
-- name: Home
-  link: /
 - name: About
-  link: /about.html
+  link: /
 - name: Vision
   link: /vision.html
 - name: Learning
   link: /learning.html
 - name: Projects
   link: /shop.html
-- name: In-Progress
-  link: /in-progress.html
-- name: Travel
-  link: /travel.html
-- name: Teaching
-  link: /teaching.html
 - name: Chinese
   link: /chinese.html
 
