@@ -2,6 +2,8 @@
 title: Digital Hygiene
 layout: default
 ---
+# Digital Hygiene
+
 Evolution of Note-Taking, 
 Weening off the Data Giants, 
 Personal Website Digital Garden Design and Development
@@ -9,7 +11,7 @@ Personal Website Digital Garden Design and Development
 A few fundamental values have guided my digital being. These underlying constraints have guided my journey in developing digital habits and a suite tools for long-term and short-term storage of files and digital keep-sakes, collecting/reflecting/processing thoughts, and it has been a dance through time as technology and software is developed and hardware wears out and upgrades. Those values are: 
 - sovereignty/autonomy/control forever  
 - privacy
-- hack-ability (
+- hack-ability 
 - switch-ability 
 - unlimited storage
 - 2 second rule, it has to flow and be easy to use in the moment when inspiration strikes
@@ -28,9 +30,9 @@ NOTE TAKING
 - Xiaomi Notes, 2018 April switched away from apple phone to Android Xiaomi 8
 - Markor 2020 December installed LineageOS 17 on Xiaomi 8 phone 
 - Obsidian 2021 September setup git repo and gitcrypt to encrypt note files on the public repo, start seed of Obsidian Digital Brain, excited about zettlekasten note taking methods, and indie web, and digital gardens (link to examples) but never got my head wrapped around complex structures, instead starting slow and letting the structures develop
-	- https://www.thegadhian.com/posts/using-obsidian-with-termux-and-vim/
-	- https://renerocks.ai/blog/obsidian-encrypted-github-android/
-	- https://github.com/termux/termux-widget#creating-and-modifying-scripts
+	- [obsidian with termux and vim](https://www.thegadhian.com/posts/using-obsidian-with-termux-and-vim/)
+	- [obsidian encrypted github android](https://renerocks.ai/blog/obsidian-encrypted-github-android/)
+	- [termux scripts](https://github.com/termux/termux-widget#creating-and-modifying-scripts)
 - Obsidian Digital Brain 2022 March, slow grow becomes more intentional, investing commitment begins, git pull and push becomes regular habit
 
 
@@ -45,9 +47,7 @@ WEENING OFF THE DATA GIANTS
 - 2018 March finally get all pictures (200GB) out of iCloud and exported from Photos Album (two year battle of deep dive focused project sessions spread over months)
 - 2018 August: wechat message history visualizations, iMazing iMyFone apple third-party software for extracting message data into spreadsheets.csv, MySQL, [d3.js](https://d3js.org/)
 - 2018 November: [Good Cloud](https://thegood.cloud/en), [Next Cloud](https://nextcloud.com), [Own Cloud](https://owncloud.com/), Personal Data Hackers, [syncloud]([https://syncloud.org/](https://syncloud.org/)),"[rsync for photos](https://www.reddit.com/r/LineageOS/comments/7inhqb/is_there_any_open_source_app_for_google/)"
-- 2021 September: de-Googling
-	- https://www.thecrowned.org/foss-android-apps-quest-going-google-free-oneplus-6
-	* https://nolanlawson.com/2017/11/27/living-with-an-open-source-phone/
+- 2021 September: de-Googling, F-Droid, OsmAnd, [FOSS apps](https://www.thecrowned.org/foss-android-apps-quest-going-google-free-oneplus-6), [living with open source phone](https://nolanlawson.com/2017/11/27/living-with-an-open-source-phone/)
 - 2020 December, ProtonMail, Brave, [Firefox Monitor](https://monitor.firefox.com/)
 - 2021 November bought Thinkpad, plan to use Linux once my last MacBook Air dies or OS upgrades beyond use 
 - 2022 Three phones: Phone with Google services, Phone with Chinese apps, Phone that is ME (FOSS and a hackable playground), Xiaomi 8 isn't compatible with AT&T 5G (had bought an extra for backup when playing with rooting in LineageOS in 2021 September), stopped using AT&T, they send free phone that is compatible with 5G networks, use it for Google services (maps, banking apps etc. I still carry it with me daily so privacy is still a problem, but I have shifted from being as strict to accepting convenience in order to save time and mental space), switch to Verizon's Visibly (spoiled on cheap data plans in China) 
