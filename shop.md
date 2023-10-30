@@ -23,7 +23,7 @@ Current
 - Truck
 
 2015
-- [Ride-able Ring Motor (deFlorez 1st Place)](https://www.kriste11er.com/2015-DeFlorez_poster_final3.pdf)
+- Ride-able Ring Motor [(deFlorez 1st Place)](https://www.kriste11er.com/2015-DeFlorez_poster_final3.pdf)
 
 2014
 - [First Permitted East Campus Rollercoaster](https://build-its-inprogress.blogspot.com/search/label/Wooden%20Roller%20Coaster)

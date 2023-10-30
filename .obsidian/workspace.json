@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chinese.md",
+                "file": "shop.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chinese.md",
+                "file": "shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chinese.md",
+                "file": "shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chinese.md"
+                "file": "shop.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "64d188b2ddaa170a",
   "lastOpenFiles": [
+    "chinese.md",
     "shop.md",
     "deflorez_poster7_final.pdf",
     "learning.md",
@@ -194,7 +195,6 @@
     "_projects/visualizing-messaging-history.md",
     "_projects/truck-logs.md",
     "_projects/mae.md",
-    "chinese.md",
     "_site/Fairbanks Travel Tips.md",
     "travel.md",
     "controls.md",
