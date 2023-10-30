@@ -107,6 +107,7 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 
 # Formal Curriculums
 #### [Massachusetts Institute of Technology](https://ocw.mit.edu/): 2A-6, B.S. in Mechanical Engineering with a focus in Controls, Instrumentation, and Robotics 
+GPA
 - **2016**
 	- 2.013 - Engineering Systems Design
 	- 2.014 - Engineering Systems Build
@@ -155,6 +156,7 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 - NASA Goddard Research Center Internship: accepted, but unfortunately too young to get clearance at the time
 
 #### Austin E. Lathrop High School: Engineering Track
+Class of 2012 Valedictorian (1 of 194) with GPA of 4.3102
 - **2012**
 	- AP English
 	- AP Calculus

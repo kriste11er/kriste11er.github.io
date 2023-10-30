@@ -1,7 +1,10 @@
 ---
 
 ---
-
+HSK 5 Exam Taken on December 1, 2019:
+- Score: 226/300
+- Percentage: 75%
+- Note: A score of 60% or above is required to qualify for enrollment in a master's program at a Chinese university.
 # Teaching Myself Chinese
 People ask me how I taught myself Chinese. Here's what I tried. Maybe it works for you, maybe not. We all learn differently. Just find that motivation deep within that keeps fueling you to learn more and optimize strategies and environments that amplify the feeling. It's truly exhilarating. 
 

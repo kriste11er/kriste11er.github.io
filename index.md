@@ -5,8 +5,13 @@ layout: default
 Hello! Welcome to my digital garden!
 
 # Jaguar Kristeller
-   m,
+
 I am a designer, project manager, systems thinker, and mechanical engineer. I graduated from MIT in 2016 with a bachelors in Mechanical Engineering concentrating in Robotics, Instrumentation, and Controls. 
+
+
+TECHNICAL EXPERIENCES
+
+Please see my resume. 
 
 
 MANAGEMENT EXPERIENCES
