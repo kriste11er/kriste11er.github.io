@@ -35,11 +35,9 @@
             "id": "64d188b2ddaa170a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "learning.md",
-                "mode": "source",
-                "source": false
+                "file": "202309_Jaguar-Kristeller.pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning.md",
+                "file": "202309_Jaguar-Kristeller.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning.md",
+                "file": "202309_Jaguar-Kristeller.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning.md"
+                "file": "202309_Jaguar-Kristeller.pdf"
               }
             }
           },
@@ -181,14 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d188b2ddaa170a",
+  "active": "9454ec39cab6b7c2",
   "lastOpenFiles": [
-    "index.md",
     "202309_Jaguar-Kristeller.pdf",
+    "202309_Jaguar-Kristeller.pdf",
+    "202309_Jaguar-Kristeller copy.pdf",
+    "learning.md",
+    "index.md",
     "chinese.md",
     "shop.md",
     "deflorez_poster7_final.pdf",
-    "learning.md",
     "digital-hygiene.md",
     "_site/digital-hygiene.html",
     "about.md",
@@ -226,7 +226,6 @@
     "_site/assets/images",
     "_site/motorcycle/20231003.html",
     "motorcycle/video_2023-10-11_14-59-28.mp4",
-    "_site/chinese.html",
-    "_site/CONTENT"
+    "_site/chinese.html"
   ]
 }
