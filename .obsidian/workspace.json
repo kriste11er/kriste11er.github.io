@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf"
+                "file": "JoinCoopWinter2023_TruckParkingFlyer_Jaguar-Kristeller.pdf"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf",
+                "file": "JoinCoopWinter2023_TruckParkingFlyer_Jaguar-Kristeller.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf",
+                "file": "JoinCoopWinter2023_TruckParkingFlyer_Jaguar-Kristeller.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf"
+                "file": "JoinCoopWinter2023_TruckParkingFlyer_Jaguar-Kristeller.pdf"
               }
             }
           },
@@ -182,7 +182,7 @@
   "active": "9454ec39cab6b7c2",
   "lastOpenFiles": [
     "202309_Jaguar-Kristeller.pdf",
-    "202309_Jaguar-Kristeller.pdf",
+    "JoinCoopWinter2023_TruckParkingFlyer_Jaguar-Kristeller.pdf",
     "202309_Jaguar-Kristeller copy.pdf",
     "learning.md",
     "index.md",
@@ -225,7 +225,6 @@
     "_site/motorcycle/photo_2023-10-11_14-54-39.jpg",
     "_site/assets/images",
     "_site/motorcycle/20231003.html",
-    "motorcycle/video_2023-10-11_14-59-28.mp4",
-    "_site/chinese.html"
+    "motorcycle/video_2023-10-11_14-59-28.mp4"
   ]
 }
