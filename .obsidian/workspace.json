@@ -35,9 +35,11 @@
             "id": "64d188b2ddaa170a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf"
+                "file": "learning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf",
+                "file": "learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf",
+                "file": "learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309_Jaguar-Kristeller.pdf"
+                "file": "learning.md"
               }
             }
           },
@@ -179,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9454ec39cab6b7c2",
+  "active": "64d188b2ddaa170a",
   "lastOpenFiles": [
     "index.md",
     "202309_Jaguar-Kristeller.pdf",

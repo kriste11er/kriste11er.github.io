@@ -90,6 +90,7 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 	- [Teach Yourself Computer Science](https://teachyourselfcs.com/): full on 1500 hours curriculum
 	- W3schools: learn webdev
 	- [Exercism](https://exercism.org/dashboard): a low bar python practice challenge tutorial structure. 
+	- [LeetCode](https://leetcode.com/problemset/all/): practice problems and similar coding interview challenge levels for big software companies
 
 
 
@@ -107,7 +108,7 @@ I absolutely love Neill deGrasse Tyson's explanation of how scary and impossible
 
 # Formal Curriculums
 #### [Massachusetts Institute of Technology](https://ocw.mit.edu/): 2A-6, B.S. in Mechanical Engineering with a focus in Controls, Instrumentation, and Robotics 
-GPA
+GPA of 3.6/5.0
 - **2016**
 	- 2.013 - Engineering Systems Design
 	- 2.014 - Engineering Systems Build
@@ -156,7 +157,8 @@ GPA
 - NASA Goddard Research Center Internship: accepted, but unfortunately too young to get clearance at the time
 
 #### Austin E. Lathrop High School: Engineering Track
-Class of 2012 Valedictorian (1 of 194) with GPA of 4.3102
+Class of 2012 Valedictorian (1 of 194)
+GPA of 4.3/4.0
 - **2012**
 	- AP English
 	- AP Calculus
