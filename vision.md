@@ -16,9 +16,8 @@ I call it my Maslow's Pyramid of Life Goals.
 ## Climate Crisis: Avoiding the Worst Case Scenarios
 
 - **Exciting Developments**
-	- CFS
-	- Quaise
-	- ITER
+	- Commonwealth Fusion Systems (CFS) and ITER
+	- [Quaise](https://www.quaise.energy/): Drill super deep geothermal wells with fusion plasma tech (transition oil industry work force and existing power station grid infrastructure to geothermal with a few wells drilled in 6 months)
 	- Earthships
 - **Contributions**
 
@@ -26,14 +25,15 @@ I call it my Maslow's Pyramid of Life Goals.
 ## Education System Design: Unschooling
 
 - **Exciting Developments**
-	- Agile Learning Centers
+	- [Agile Learning Centers](https://www.agilelearningcenters.org/)
 
 - **Contributions**
 	- Rollercoaster inside International School of Beijing
-	- Moonshot Academy
+	- [Moonshot Academy](https://moonshotacademy.cn/)
 		- Starting a High School in China: Reflection Essays 
-	- StarDAS
-		- MATRIX of Certifications to Teach
+	- [StarDAS](https://www.stardas.org/main-en)
+		- [StarDas on Gitlab](https://gitlab.com/stardas/a-new-hope)
+   		- MATRIX of Certifications to Teach
 		- SparkDAS
 	- Explorer's Toolkit
 	- Project OK
@@ -42,19 +42,15 @@ I call it my Maslow's Pyramid of Life Goals.
 education and collection/visualization of personal data in control by the person to whom it belongs for the benefit of furthering their own self-awareness:
 
 - **Exciting Developments**
-	- GDPR
-		- Giovanni's Manifesto
-	- CXI: Joi Ito, Ben
+	- GDPR and Giovanni's [PRIVACY 2 0 3 0 Manifesto](https://archive.epic.org/giovanni_manifesto.pdf)
+	- [CXI](https://globalcxi.org/wp-content/uploads/2018/06/CXI_Vision.pdf)
 	- [Holochain](https://www.youtube.com/watch?v=hyCtYrHJebs&ab_channel=Holochain): is a framework for building fully distributed peer-2-peer applications, like a decentralized Ruby on Rails (a mere stepping stone piece of the Ceptr puzzle. 
-		- Arthur Brock
 	- [HOPE](https://hope.net/): Hackers On Planet Earth, a great conference of like-minded hackers as yourself
-		- Mitch Altman, co-founder and core organizer, grandfather of hackerspace movement around the world, and a dear friend.
-		- Cory Doctorow, with EFF is a keynote speaker each year and he wrote this persuasive essay for interoperability between software applications to increase [privacy without monopoly](link).
-
+	
 - **Contributions**
 	- a packet containing a few gem deliverables from 2017-2019
 		 - [![](https://ci4.googleusercontent.com/proxy/qYa6_H461C21RR-qYIwSBcI7qqS9WSiFAN0DaF9sKsbdOZ5S3C-vrr7s_W7pzqFo7qGPHn6zXYPCgzf3sLpi6Csr9HA9gNV6rWRnwUrSjrNGKy8ubI-d=s0-d-e1-ft#https://ssl.gstatic.com/docs/doclist/images/icon_10_generic_list.png) 20220720_Jaguar to Jangle_humane tech ideas_SHA...](https://drive.google.com/file/d/1LCCAGkrfgqlcU-C37bg-OHQiLvKNE9Xw/view?usp=drive_web)
-	- CNEO
+	- Connected Northeast Ohio (CNEO): a Community-owned Mesh Network in Cleveland
 	- Personal Data Hackers
 	- WeChat Contained
 		- Stream-graphing Messaging History 
@@ -76,10 +72,15 @@ some really interesting things going on in Taiwan with respect to digital democr
 	- [taiwan solving the uber problem](https://richdecibels.medium.com/how-taiwan-solved-the-uber-problem-29fd2358a284): an example of how Polis was used in Taiwanese governance  
 
 #### Community and Co-ops
-- Enspiral
-- Autonomous University 
+- [Enspiral](https://www.enspiral.com/)
+	- [Loomio](https://www.loomio.coop/)
+- Autonomous University
 
-
+#### Inspirations
+- [Richard D. Bartlett](https://richdecibels.com/)
+- Arthur Brock: co-founder of [Holochain](https://www.holochain.org/) and technical visionary for [CEPTR](https://ceptr.org/)
+- Cory Doctorow: with EFF is a keynote speaker each [HOPE](www.hope.net) conference and he wrote this persuasive essay for interoperability between software applications to increase [privacy without monopoly](link).
+- Mitch Altman: co-founder and core organizer, grandfather of hackerspace movement around the world, and a dear friend.
 
 
   
