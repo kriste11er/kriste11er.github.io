@@ -18,7 +18,7 @@ I call it my Maslow's Pyramid of Life Goals.
 - **Exciting Developments**
 	- Commonwealth Fusion Systems (CFS) and ITER
 	- [Quaise](https://www.quaise.energy/): Drill super deep geothermal wells with fusion plasma tech (transition oil industry work force and existing power station grid infrastructure to geothermal with a few wells drilled in 6 months)
-	- Earthships
+	- [Earthships](https://earthship.com/): Off-grid sustainable green buildings made from recycled resources
 - **Contributions**
 
 
@@ -31,12 +31,12 @@ I call it my Maslow's Pyramid of Life Goals.
 	- Rollercoaster inside International School of Beijing
 	- [Moonshot Academy](https://moonshotacademy.cn/)
 		- Starting a High School in China: Reflection Essays 
-	- [StarDAS](https://www.stardas.org/main-en)
+	- [StarDAS](https://www.stardas.org/main-en): Reference-Rich Decentralized Accreditation System, for students to bootstrap learning communities by learning through teaching and certifying each other's knowledge. 
 		- [StarDas on Gitlab](https://gitlab.com/stardas/a-new-hope)
    		- MATRIX of Certifications to Teach
 		- SparkDAS
-	- Explorer's Toolkit
-	- Project OK
+	- Explorer's Toolkit: a map of visual thinking sketches outlining how learning data can be used as a self-reflective/assessment tool for Learners. 
+	- Project OK: inspiring student subversive activity through an essay manifesto to change the tradition-ifying forces influencing a school's maker/project-based culture. 
 
 ## Personal Data: Your Data for You
 education and collection/visualization of personal data in control by the person to whom it belongs for the benefit of furthering their own self-awareness:
